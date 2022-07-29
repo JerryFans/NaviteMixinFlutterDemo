@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-NaviteMixinFlutterDemo/Pods-NaviteMixinFlutterDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/flutter_boost/flutter_boost.framework
+${PODS_ROOT}/../flutter_module/.ios/Flutter/App.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/Flutter/Flutter.framework/Flutter
