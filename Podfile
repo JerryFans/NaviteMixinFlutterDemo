@@ -11,3 +11,7 @@ target 'NaviteMixinFlutterDemo' do
   # Pods for NaviteMixinFlutterDemo
 
 end
+
+post_install do |installer|
+  flutter_post_install(installer) if defined?(flutter_post_install)
+end
